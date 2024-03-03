@@ -1,6 +1,6 @@
 # About Me 
 
-<img src="seinfeild.gif" alt="Alt Text" height="300" width="500" align="right">
+<img src="seinfeild2.gif" alt="Alt Text" height="300" width="500" align="right">
 
 Hi guys, I'm Mujahed Ali. I am full stack developer from New York and a graduate from App Academy. I am currently working on my LinkedIn clone, a  web application called [ConnectIn](https://www.connectin.mujahedali.com/).  
 
