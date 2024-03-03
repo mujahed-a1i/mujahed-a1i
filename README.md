@@ -1,11 +1,25 @@
 # About Me 
 <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="right" width="100"> -->
-<iframe src="https://giphy.com/embed/l0MYyv6UK0Bd4DE76" width="480" height="330" frameBorder="0" align="right" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/l0MYyv6UK0Bd4DE76" width="500" height="300" frameBorder="0" align="right" class="giphy-embed" allowFullScreen></img>
+<div style="text-align:right">
+  <img src="seinfield.gif" alt="Alt Text" height="300" width="500">
+</div>
 
 Hi guys, I'm Mujahed Ali. I am full stack developer from New York and a graduate from App Academy. I am currently working on my LinkedIn clone, a  web application called [ConnectIn](https://www.connectin.mujahedali.com/).  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujahed-ali-957276169/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujahed97@gmail.com)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
