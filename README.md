@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;">About Me</h1>
 
-<img src="seinfeld2.gif" alt="Alt Text" height="400" width="500" align="right">
+<img src="seinfeld2.gif" alt="Alt Text" height="400" width="500" align="right" style="margin-left: 20px;">
 
 Hi there! I'm Mujahed Ali, a full stack developer hailing from the vibrant city of New York. With a solid educational background, having graduated from App Academy, I'm deeply passionate about crafting exceptional web experiences. Currently, I'm pouring my creativity and skills into building [ConnectIn](https://www.connectin.mujahedali.com/), a dynamic web application aimed at revolutionizing professional networking.
 
@@ -12,11 +12,7 @@ Beyond coding, I'm a huge fan of sitcoms, especially those from the late '90s an
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujahed-ali-957276169/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujahed97@gmail.com)
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 
