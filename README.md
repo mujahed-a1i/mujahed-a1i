@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;">About Me</h1>
 
-<img src="seinfeld2.gif" alt="Alt Text" height="400" width="500" align="right" style="margin-left: 20px;">
+<img src="seinfeld2.gif" alt="Alt Text" height="400" width="500" align="right" style="margin-left: 100px;">
 
 Hi there! I'm Mujahed Ali, a full stack developer hailing from the vibrant city of New York. With a solid educational background, having graduated from App Academy, I'm deeply passionate about crafting exceptional web experiences. Currently, I'm pouring my creativity and skills into building [ConnectIn](https://www.connectin.mujahedali.com/), a dynamic web application aimed at revolutionizing professional networking.
 
