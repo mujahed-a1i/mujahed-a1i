@@ -1,8 +1,13 @@
-# About Me 
 
-<img src="seinfeild2.gif" alt="Alt Text" height="300" width="500" align="right">
+<h1 style="text-align: center;">About Me</h1>
 
-Hi guys, I'm Mujahed Ali. I am full stack developer from New York and a graduate from App Academy. I am currently working on my LinkedIn clone, a  web application called [ConnectIn](https://www.connectin.mujahedali.com/).  
+<img src="seinfeld2.gif" alt="Alt Text" height="300" width="500" align="right">
+
+Hi there! I'm Mujahed Ali, a full stack developer hailing from the vibrant city of New York. With a solid educational background, having graduated from App Academy, I'm deeply passionate about crafting exceptional web experiences. Currently, I'm pouring my creativity and skills into building [ConnectIn](https://www.connectin.mujahedali.com/), a dynamic web application aimed at revolutionizing professional networking.
+
+<br>
+
+Beyond coding, I'm a huge fan of sitcoms, especially those from the late '90s and early 2000s era. You'll often find me immersed in the witty banter of shows like Seinfeld, Boy Meets World, or How I Met Your Mother. As a self-professed TV and movie junkie, I'm always on the lookout for captivating storytelling and memorable characters. Feel free to share any TV shows and movies that you recommend—I'm always open to discovering new favorites!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujahed-ali-957276169/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujahed97@gmail.com)
@@ -10,15 +15,11 @@ Hi guys, I'm Mujahed Ali. I am full stack developer from New York and a graduate
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-# Skills 
+
+
+<h1 style="text-align: center;">Skills</h1>
+ 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -31,33 +32,23 @@ Hi guys, I'm Mujahed Ali. I am full stack developer from New York and a graduate
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend
-
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Hosting 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ### Tools/Librariies
-
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
-
-<!--
-**mujahed-a1i/mujahed-a1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
