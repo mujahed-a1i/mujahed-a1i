@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;">About Me</h1>
+<h1 align="center">About Me</h1>
 
 <img src="seinfeld2.gif" alt="Alt Text" height="400" width="500" align="right" style="margin-left: 100px;">
 <br>
@@ -17,7 +17,7 @@ Beyond coding, I'm a huge fan of sitcoms, especially those from the late '90s an
 
 
 
-<h1 style="text-align: center;">Skills</h1>
+<h1 align="center">Skills</h1>
  
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
